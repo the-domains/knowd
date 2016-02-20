@@ -4,7 +4,7 @@
         <description><![CDATA[Go Further, Faster.]]></description>
         <link>https://thegrid.ai/knowd/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Feb 2016 00:50:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Feb 2016 00:52:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/knowd/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Knowd Zero]]></title>
@@ -12,16 +12,6 @@
             <link>https://thegrid.ai/knowd/knowd-zero/index.html</link>
             <guid isPermaLink="false">51d576d7-29aa-4dfa-9421-b26d190f575a</guid>
             <pubDate>Sat, 20 Feb 2016 00:50:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Knowd]]></title>
-            <description><![CDATA[<article><h1>The Knowd</h1><p>The Knowd facilitates and enriches personal introductions by
-making personal networks interactive and explorable and ensuring the
-reliability of the information found within. The following are the core
-features the Knowd enables.</p></article>]]></description>
-            <link>https://thegrid.ai/knowd/the-knowd/index.html</link>
-            <guid isPermaLink="false">d9524a46-3cab-4fdf-9f92-42b13819e2c8</guid>
-            <pubDate>Sat, 20 Feb 2016 00:34:22 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -3,25 +3,27 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: "Psst...you're secretly invited."
-datePublished: '2016-02-20T00:50:38.285Z'
-dateModified: '2016-02-20T00:50:30.054Z'
+datePublished: '2016-02-26T03:06:00.951Z'
+dateModified: '2016-02-26T03:02:48.990Z'
 title: Knowd Zero
 author: []
+sourcePath: _posts/2016-02-20-knowd-zero.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-20-knowd-zero.md
-published: true
 url: knowd-zero/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/72564f6e-9f9a-4fb1-a00b-e1eafb04b8fe.png)
+
 Greetings & Welcome.
 
 My name is Dr. Knowd, founder of The Knowd - a place in space that helps people connect to resources. I've been quite eager to introduce myself to you!

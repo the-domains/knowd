@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Go Further, Faster.]]></title>
-        <description><![CDATA[Go Further, Faster.]]></description>
+        <title><![CDATA[Knowd]]></title>
+        <description><![CDATA[Knowd]]></description>
         <link>https://thegrid.ai/knowd/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 02:55:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2016 03:23:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/knowd/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Knowd Zero]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Sat, 20 Feb 2016 00:50:38 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Opinion: Are We On the Verge of a Hip-Hop Inspired Political Revolution?]]></title>
+            <description><![CDATA[<article><h1>Opinion: Are We On the Verge of a Hip-Hop Inspired Political Revolution?</h1><p>We are officially moving into another era in pop culture. The social and political consciousness once characterized by "I'm Black and I'm Proud" 19 has resurfaced in a 21 st century global kind of way. And it's happening "overground" - that is, where everyone can see it. We can witness it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/415894ca6ddf8f40fdbfb5037b489e57d3b8b9e2.jpg"></article>]]></description>
+            <link>http://www.artsatl.com/2016/02/opinion-verge-hip-hop-inspired-political-revolution/</link>
+            <guid isPermaLink="false">6cf0d0c7-111e-48aa-919b-3d18a1e56c5e</guid>
+            <pubDate>Fri, 26 Feb 2016 03:02:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Boston Dynamics' New Robot Is Wicked Good at Getting Bullied]]></title>
-            <description><![CDATA[<article><h1>Boston Dynamics' New Robot Is Wicked Good at Getting Bullied</h1><p>One of these days, Boston Dynamics-the Alphabet-owned robot company from Beantown-is going to push its robots too far. I mean, just look at their latest video, in which they push, trip, and play keep away from a robot named Atlas.</p><img src="http://www.wired.com/wp-content/uploads/2016/02/atlas-new-1200x630.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Boston Dynamics' New Robot Is Wicked Good at Getting Bullied</h1><p>One of these days, Boston Dynamics-the Alphabet-owned robot company from Beantown-is going to push its robots too far. I mean, just look at their latest video, in which they push, trip, and play keep away from a robot named Atlas.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9736163d33a9093b779ff4c084928135d43e2f71.jpg"></article>]]></description>
             <link>http://www.wired.com/2016/02/boston-dynamics-new-robot-wicked-good-getting-bullied/</link>
             <guid isPermaLink="false">3b2c20d1-5e02-4589-9182-bc3172b605c9</guid>
             <pubDate>Fri, 26 Feb 2016 02:48:32 GMT</pubDate>

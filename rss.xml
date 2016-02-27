@@ -4,15 +4,8 @@
         <description><![CDATA[Knowd]]></description>
         <link>https://thegrid.ai/knowd/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Feb 2016 18:08:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Feb 2016 18:08:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/knowd/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[The Post-Email Organization]]></title>
-            <description><![CDATA[<article><h1>The Post-Email Organization</h1><p>How social media can help employees perform better.advertisement This post is part 4 in a 5-part series focusing on the potential impact of social media within the enterprise. Part 1 dealt with a framework for understanding how social media supports relationships and content in ways that both enable and constrain employees.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/780b0127d298ec714c394b61c899e864d9f5080c.jpg"></article>]]></description>
-            <link>http://sloanreview.mit.edu/article/the-post-email-organization/</link>
-            <guid isPermaLink="false">cb7c2538-b649-48de-8d3d-648c9b288147</guid>
-            <pubDate>Sat, 27 Feb 2016 18:07:53 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[With Quartz's App, You Don't Read the News. You Chat With It]]></title>
             <description><![CDATA[<article><h1>With Quartz's App, You Don't Read the News. You Chat With It</h1><p>Yesterday morning I woke up, put on a pot of coffee, and checked the news. I wanted to revisit the New Hampshire primary results that had rolled in the night before. I opened Quartz's new app and was greeted with a text message: "Yep, it's really happening: Trump and Sanders won big in New Hampshire."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7510071b355201bc68d66fbf58f9346aa15c7586.jpg"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>http://www.sciencealert.com/new-alzheimer-s-treatment-fully-restores-memory-function</link>
             <guid isPermaLink="false">e320ef29-1321-4be6-8ec4-c4355f10cb82</guid>
             <pubDate>Fri, 26 Feb 2016 02:48:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[This is the World's First Intelligent Smart Baby Stroller]]></title>
+            <description><![CDATA[<article><h1>This is the World's First Intelligent Smart Baby Stroller</h1><p>Not only does it come with a motion tracking sensor system, but it also offers your baby the comfort of temperature controls and a built-in bottle warmer</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/193bcd1b8c995620962716dec93a754bccd09af0.png"></article>]]></description>
+            <link>http://futurism.com/videos/worlds-first-intelligent-smart-baby-stroller/</link>
+            <guid isPermaLink="false">8ed12f49-dbf6-4d5e-b7cd-8746b137025e</guid>
+            <pubDate>Mon, 22 Feb 2016 14:46:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
